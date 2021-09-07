@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: ''
 disqus: ''
-mailchimp-list: 'https://chicagotamilsangam.us18.list-manage.com/subscribe/post?u=1110190903dc8de3c771155&amp;id=69bd9dcf43'
+mailchimp-list: 'https://chicagotamilsangam.us18.list-manage.com/subscribe/post?u=c1110190903dc8de3c771155d&amp;id=69bd9dcf43'
 include: ["_pages"]
 permalink: /:title/
 
