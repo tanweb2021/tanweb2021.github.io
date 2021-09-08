@@ -5,7 +5,7 @@ description: "அக்டோபர் 02,2021"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: ''
+google_analytics: 'UA-207020212-1'
 disqus: ''
 mailchimp-list: 'https://chicagotamilsangam.us18.list-manage.com/subscribe/post?u=c1110190903dc8de3c771155d&amp;id=69bd9dcf43'
 include: ["_pages"]
