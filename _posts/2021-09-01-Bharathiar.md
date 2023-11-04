@@ -3,7 +3,7 @@ layout: post
 title:  "மகாகவி பாரதியார்"
 author: cts
 categories: [ பாரதியார், அறிஞர் ]
-tags: [பாரதியார், அறிஞர்]
+tags: [அறிஞர், 2021]
 image: assets/images/BharathiBanner.png
 featured: false
 hidden: false
