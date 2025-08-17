@@ -4,7 +4,7 @@ title:  "கலைஞர் மு.கருணாநிதி"
 author: cts
 categories: [ கலைஞர் மு.கருணாநிதி, அறிஞர் ]
 tags: [அறிஞர்]
-image: assets/images/kalaignarmkarunanidhi.jpg
+image: assets/images/kalignarmkarunanidhi.jpg
 featured: false
 hidden: false
 ---
