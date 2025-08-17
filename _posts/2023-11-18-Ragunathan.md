@@ -4,7 +4,7 @@ title:  "தொ. மு. சி. ரகுநாதன்"
 author: cts
 categories: [ தொ. மு. சி. ரகுநாதன், அறிஞர் ]
 tags: [அறிஞர்]
-image: assets/images/SurathaBanner.png
+image: assets/images/tmcraghunathan.jpg
 featured: false
 hidden: false
 ---
