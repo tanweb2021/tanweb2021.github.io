@@ -2,7 +2,7 @@
 layout: post
 title:  "கி. ஆ. பெ. விசுவநாதம்"
 author: cts
-categories: [ கி. ஆ. பெ. விசுவநாதம், அறிஞர் ]
+categories: [ கி. ஆ. பெ. விசுவநாதம், அறிஞர்,2024 ]
 tags: [அறிஞர்]
 image: assets/images/KiAPaViswantaham.jpg
 featured: false
