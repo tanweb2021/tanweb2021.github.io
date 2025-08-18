@@ -2,7 +2,7 @@
 layout: post
 title:  "செய்குத்தம்பிப் பாவலர்"
 author: cts
-categories: [ செய்குத்தம்பிப் பாவலர் , அறிஞர் , "2024" ]
+categories: [செய்குத்தம்பிப் பாவலர்,அறிஞர், ஆண்டு-2024]
 tags: [அறிஞர்]
 image: assets/images/Seykuthambipavalar.jpg
 featured: false

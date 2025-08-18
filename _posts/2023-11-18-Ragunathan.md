@@ -2,7 +2,7 @@
 layout: post
 title:  "தொ. மு. சி. ரகுநாதன்"
 author: cts
-categories: [ தொ. மு. சி. ரகுநாதன் , அறிஞர் , "2023" ]
+categories: [ தொ. மு. சி. ரகுநாதன், அறிஞர், ஆண்டு-2023 ]
 tags: [அறிஞர்]
 image: assets/images/tmcraghunathan.jpg
 featured: false

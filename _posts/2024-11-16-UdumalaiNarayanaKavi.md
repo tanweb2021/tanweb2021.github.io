@@ -2,7 +2,7 @@
 layout: post
 title:  "உடுமலை நாராயணகவி"
 author: cts
-categories: [ உடுமலை நாராயணகவி , அறிஞர் , "2024" ]
+categories: [உடுமலை நாராயணகவி, அறிஞர், ஆண்டு-2024 ]
 tags: [அறிஞர்]
 image: assets/images/UdumalaiNarayanakavi.jpg
 featured: false
