@@ -2,7 +2,7 @@
 layout: post
 title:  "கு. அழகிரிசாமி"
 author: cts
-categories: [ கு. அழகிரிசாமி, அறிஞர், ஆண்டு-2023 ]
+categories: [ கு. அழகிரிசாமி, அறிஞர், "2023" ]
 tags: [அறிஞர்]
 image: assets/images/kualagirisamy.jpg
 featured: false
