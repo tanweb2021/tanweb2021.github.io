@@ -2,7 +2,7 @@
 layout: post
 title:  "கலைஞர் மு.கருணாநிதி"
 author: cts
-categories: [ கலைஞர் மு.கருணாநிதி, அறிஞர், ஆண்டு-2023 ]
+categories: [ கலைஞர் மு.கருணாநிதி, அறிஞர், "2023" ]
 tags: [அறிஞர்]
 image: assets/images/kalignarmkarunanidhi.jpg
 featured: false
